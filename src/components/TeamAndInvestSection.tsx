@@ -121,7 +121,7 @@ export default function TeamAndInvestSection() {
                 <div className="w-full md:w-[55%] h-[550px] bg-[#004172] min-h-[500px] p-10 sm:px-6 lg:px-16 sm:py-3 lg:py-10 flex flex-col relative">
 
                     {/* Header */}
-                    <h2 className="text-white text-xl sm:text-[24px] lg:text-[30px] font-light sm:mb-3 lg:mb-6">
+                    <h2 className="text-white text-xl sm:text-[24px] lg:text-[30px] font-light mb-2 sm:mb-3 lg:mb-6">
                         Message from our <span className="font-semibold">Chairperson</span>
                     </h2>
 
@@ -187,7 +187,7 @@ export default function TeamAndInvestSection() {
                 <div className="w-full md:w-[55%] h-[550px] bg-[#004172] min-h-[500px] p-10 sm:px-6 lg:px-16  sm:py-3 lg:py-10  flex flex-col relative">
 
                     {/* Header */}
-                    <div className="sm:mb-3 lg:mb-6">
+                    <div className="mb-2 sm:mb-3 lg:mb-6">
                         <p className="text-white text-xl md:text-[24px] font-light leading-tight">
                             Message from our
                         </p>
@@ -254,7 +254,7 @@ export default function TeamAndInvestSection() {
                 <div className="w-full md:w-[55%] h-[550px] bg-[#004172] min-h-[500px] p-10 sm:px-6 lg:px-16 sm:py-3 lg:py-10  flex flex-col relative">
 
                     {/* Header */}
-                    <div className="sm:mb-3 lg:mb-6">
+                    <div className="mb-2 sm:mb-3 lg:mb-6">
                         <p className="text-white text-xl md:text-[24px] font-light leading-tight">
                             Message from our
                         </p>
