@@ -89,7 +89,7 @@ export default function ServicesSection() {
         <div className="relative z-10 bg-white px-2">
           <div className=" sm:w-[400px] sm:h-[260px] w-[250px] h-[180px] rounded-[20px] overflow-hidden border-[6px] border-white shadow-xl">
             <Image 
-              src="/Service1.png" 
+              src="/Ss1.png" 
               alt="Services Overview" 
               fill
               className="object-cover rounded-[14px]"
