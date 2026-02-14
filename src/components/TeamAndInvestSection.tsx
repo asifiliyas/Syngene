@@ -102,7 +102,7 @@ export default function TeamAndInvestSection() {
             </div>
 
             {/* Invest Section */}
-            <div className="container mx-auto px-4 md:px-[70px] py-7 sm:py-14 max-w-[1200px] flex flex-col md:flex-row items-center md:gap-5 lg:gap-0">
+            <div className="container mx-auto px-4 md:px-[70px] py-7 sm:py-14 max-w-[1200px] flex flex-col md:flex-row items-center sm:gap-5">
 
                 {/* Left Side: Image */}
                 <div className="w-full md:w-[45%] flex justify-center md:justify-start">
@@ -118,7 +118,7 @@ export default function TeamAndInvestSection() {
                 </div>
 
                 {/* Right Side: Content Box */}
-                <div className="w-full md:w-[55%] h-[550px] bg-[#004172] min-h-[500px] p-10 sm:px-6 lg:px-16 sm:py-3 lg:py-10 flex flex-col relative">
+                <div className="w-full md:w-[55%] bg-[#004172] min-h-[500px] sm:min-h-[350px] lg:min-h-[550px] p-10 sm:px-6 lg:px-16 sm:py-3 lg:py-10 flex flex-col relative">
 
                     {/* Header */}
                     <h2 className="text-white text-xl sm:text-[24px] lg:text-[30px] font-light mb-2 sm:mb-3 lg:mb-6">
@@ -168,7 +168,7 @@ export default function TeamAndInvestSection() {
             </div>
 
             {/* Financial Review Section */}
-            <div className="container mx-auto px-4 md:px-[70px] py-7 sm:py-14 max-w-[1200px] flex flex-col md:flex-row items-center md:gap-5 lg:gap-0">
+            <div className="container mx-auto px-4 md:px-[70px] py-7 sm:py-14 max-w-[1200px] flex flex-col md:flex-row items-center sm:gap-5">
 
                 {/* Left Side: Image */}
                 <div className="w-full md:w-[45%] flex justify-center md:justify-start">
@@ -184,7 +184,7 @@ export default function TeamAndInvestSection() {
                 </div>
 
                 {/* Right Side: Content Box */}
-                <div className="w-full md:w-[55%] h-[550px] bg-[#004172] min-h-[500px] p-10 sm:px-6 lg:px-16  sm:py-3 lg:py-10  flex flex-col relative">
+                <div className="w-full md:w-[55%] min-h-[500px] sm:min-h-[350px] lg:min-h-[550px] bg-[#004172] p-10 sm:px-6 lg:px-16  sm:py-3 lg:py-10  flex flex-col relative">
 
                     {/* Header */}
                     <div className="mb-2 sm:mb-3 lg:mb-6">
@@ -235,7 +235,7 @@ export default function TeamAndInvestSection() {
 
             </div>
 
-            <div className="container mx-auto px-4 md:px-[70px] py-7 sm:py-14 max-w-[1200px] flex flex-col md:flex-row items-center md:gap-5 lg:gap-0">
+            <div className="container mx-auto px-4 md:px-[70px] py-7 sm:py-14 max-w-[1200px] flex flex-col md:flex-row items-center sm:gap-5">
 
                 {/* Left Side: Image */}
                 <div className="w-full md:w-[45%] flex justify-center md:justify-start">
@@ -251,7 +251,7 @@ export default function TeamAndInvestSection() {
                 </div>
 
                 {/* Right Side: Content Box */}
-                <div className="w-full md:w-[55%] h-[550px] bg-[#004172] min-h-[500px] p-10 sm:px-6 lg:px-16 sm:py-3 lg:py-10  flex flex-col relative">
+                <div className="w-full md:w-[55%] min-h-[500px] sm:min-h-[350px] lg:min-h-[550px] bg-[#004172] p-10 sm:px-6 lg:px-16 sm:py-3 lg:py-10  flex flex-col relative">
 
                     {/* Header */}
                     <div className="mb-2 sm:mb-3 lg:mb-6">

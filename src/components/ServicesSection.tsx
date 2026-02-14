@@ -175,11 +175,11 @@ export default function ServicesSection() {
         </div>
 
         {/* Right Side: Text Content */}
-        <div className="w-full md:w-1/2 sm:p-10 md:p-8 lg:pl-10">
+        <div className="w-full md:w-1/2 sm:p-10 md:p-4 lg:pl-4 p-3">
           <h2 className="text-[#333] text-[25px] md:text-[35px] font-semibold mb-4">
             {workforceData.title}
           </h2>
-          <p className="text-[#004A81] text-[16px] md:text-[18px] leading-tight mb-10 font-medium lg:w-[501px] sm:w-[400px]">
+          <p className="text-[#004A81] text-[16px] md:text-[18px] leading-tight mb-10 font-medium lg:w-[501px] sm:w-[362px] md:w-[400px]">
             {workforceData.description}
           </p>
           <div className="flex items-center gap-3 group cursor-pointer">
@@ -209,7 +209,7 @@ export default function ServicesSection() {
         </div>
 
         {/* Left Side: Text Content */}
-        <div className="w-full md:w-1/2 p-10 sm:p-8 lg:p-20 lg:pr-10">
+        <div className="w-full md:w-1/2 p-4 sm:p-3 lg:p-5 xl:p-10 lg:pr-10">
           <h2 className="text-[#333] text-[25px] md:text-[35px] font-semibold mb-4">
             {csrData.title}
           </h2>
